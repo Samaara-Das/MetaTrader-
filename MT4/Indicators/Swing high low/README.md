@@ -1,0 +1,1 @@
+The swings are drawn in AO red or green ranges (regardless of negative or positive ranges). The highs are drawn when the AO is green & the lows are drawn when the AO is red. If the lines are haywire and are not being drawn correctly, re-compile the indicator or remove it & put it back on the chart or just switch the timeframe.
